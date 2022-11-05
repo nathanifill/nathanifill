@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nathan Ifill</h1>
+<h1 align="center">Hi 👋🏿, I'm Nathan Ifill</h1>
 <h3 align="center">A front-end developer from Leicester, UK</h3>
 
 <p align="left"> <a href="https://twitter.com/nathanifill" target="blank"><img src="https://img.shields.io/twitter/follow/nathanifill?logo=twitter&style=for-the-badge" alt="nathanifill" /></a> </p>
