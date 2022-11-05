@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **nathanifill/nathanifill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,21 +18,22 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/nathanifill" target="blank"><img src="https://img.shields.io/twitter/follow/nathanifill?logo=twitter&style=for-the-badge" alt="nathanifill" /></a> </p>
 
-- 🔭 I’m currently working on [swaplang](https://www.swaplang.com/french/)
+- 🔭 I’m currently working on [swaplang](https://www.swaplang.com/french/), a French-English language exchange app
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **all of the fiddly bits of React**
 
-- 👨‍💻 All of my projects are available at [https://www.nathanifill.com](https://www.nathanifill.com)
+- 👨‍💻 My portfolio is available at [https://www.nathanifill.com](https://www.nathanifill.com)
 
-- 📫 How to reach me **nathangifill+github@gmail.com**
+- 📫 Drop me an email at **nathangifill+github@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/nathanifill/](https://www.linkedin.com/in/nathanifill/)
+- 📄 Connect with me on LinkedIn here: [https://www.linkedin.com/in/nathanifill/](https://www.linkedin.com/in/nathanifill/)
 
-- ⚡ Fun fact **🇺🇸 President Barack Obama follows me on Twitter 😎**
+- ⚡ Fun fact **🇺🇸 President Barack Obama follows me on Twitter 😎** <a href="https://twitter.com/nathanifill" target="blank">(Maybe you should too!)</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nathanifill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nathanifill" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13510132" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13510132" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nathanifill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathanifill" height="30" width="40" /></a>
 </p>
 
