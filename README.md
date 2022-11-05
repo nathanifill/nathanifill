@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/nathanifill" target="blank"><img src="https://img.shields.io/twitter/follow/nathanifill?logo=twitter&style=for-the-badge" alt="nathanifill" /></a> </p>
 
-- 🔭 I’m currently working on [swaplang](https://www.swaplang.com/french/), a French-English language exchange app
+- 🔭 I’m currently working on [swaplang](https://www.swaplang.com/french/), a French-English language exchange app I built with vanilla PHP, Sass and vanilla JavaScript
 
 - 🌱 I’m currently learning **all of the fiddly bits of React**
 
