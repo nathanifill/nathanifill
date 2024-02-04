@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [swaplang](https://www.swaplang.com/french/), a French-English language exchange app I built with vanilla PHP, Sass and vanilla JavaScript
 
-- 🌱 I’m currently learning **all of the fiddly bits of React**
+- 🌱 I’m currently learning **all of the fiddly bits of Node.js**
 
 - 👨‍💻 My portfolio is available at [https://www.nathanifill.com](https://www.nathanifill.com)
 
